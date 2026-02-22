@@ -3,15 +3,9 @@
 > [!WARNING]  
 > Please keep in mind that Dooksa Core is still under active development and full backward compatibility is not guaranteed before reaching v1.0.0. It is not yet recommended for production-critical applications.
 
-**Dooksa** is a play on words _**"Look This" 👀👉** as my young bilingual daughter would say (a mix of English/French)_ 
-
----
-
 > **Note:** This repository houses the underlying architecture and core engine.
 
 ---
-
-**Dooksa Core** is an extensible, isomorphic application engine designed to power interactive applications, visual programming environments, and low-code platforms. It provides a robust foundation featuring reactive state management, a dynamic action system, and a unified plugin architecture that runs seamlessly on both the client and the server.
 
 ## What is Dooksa Core?
 
@@ -27,6 +21,8 @@ At its heart, Dooksa is a high-performance orchestrator. It is not just a UI lib
   * Create environments using `@dooksa/create-app/client` or `@dooksa/create-app/server`. On the client, it manages a Virtual DOM with data binding; on the server, the exact same core acts as a high-speed web server and structured database.
 * **Zero-Dependency & Lightweight** 
   * The Dooksa client preset is highly optimized and uses only Web Standard APIs.
+
+**Dooksa** is a play on words _**"Look This" 👀👉** as my young bilingual daughter would say (a mix of English/French)_ 
 
 ## Getting Started
 
