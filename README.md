@@ -42,21 +42,21 @@ pnpm run dev
 
 The Dooksa Core monorepo is divided into several packages:
 
-[`@dooksa/create-app`](/tree/main/packages/create-app) - Main entry points for creating and configuring client and server applications.
+[`@dooksa/create-app`](https://github.com/dooksajs/core/tree/main/packages/create-app) - Main entry points for creating and configuring client and server applications.
 
-[`@dooksa/create-plugin`](/tree/main/packages/create-plugin) - Utilities to create plugin instances with state, actions, and dependencies.
+[`@dooksa/create-plugin`](https://github.com/dooksajs/core/tree/main/packages/create-plugin) - Utilities to create plugin instances with state, actions, and dependencies.
 
-[`@dooksa/plugins`](tree/main/packages/plugins) - The core state management system, schema handling, and core functionalities.
+[`@dooksa/plugins`](https://github.com/dooksajs/core/tree/main/packages/plugins) - The core state management system, schema handling, and core functionalities.
 
 ## Documentation
 
 Detailed documentation for the architecture and individual packages can be found in their respective directories:
 
-[State Management & Schema Guide](/tree/main/packages/plugins/docs)
+[State Management & Schema Guide](https://github.com/dooksajs/core/tree/main/packages/plugins/docs)
 
-[Plugin Creation Guide](/tree/main/packages/create-plugin/docs)
+[Plugin Creation Guide](https://github.com/dooksajs/core/tree/main/packages/create-plugin/docs)
 
-[Application Setup Guide](/tree/main/packages/create-app/docs)
+[Application Setup Guide](https://github.com/dooksajs/core/tree/main/packages/create-app/docs)
 
 ## Contributing
 
@@ -68,6 +68,6 @@ We are building a foundation for the next generation of visual programming tools
 
 - Build and share third-party @dooksa plugins.
 
-For more details, see [CONTRIBUTING.md](/blob/main/CONTRIBUTING.md).
+For more details, see [CONTRIBUTING.md](https://github.com/dooksajs/core/blob/main/CONTRIBUTING.md).
 
 Distributed under the AGPL-3.0 License.
